@@ -143,26 +143,6 @@ p {
   align-items: center;
   gap: 15px;
 }
-
-.right button:first-child {
-  background-color: green;
-  color: white;
-  padding: 10px;
-  border: none;
-  font-size: 18px;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
-.right button:last-child {
-  background-color: red;
-  color: white;
-  padding: 10px;
-  border: none;
-  font-size: 18px;
-  border-radius: 6px;
-  cursor: pointer;
-}
 .Surname {
   font-weight: 700;
   font-size: 40px;
